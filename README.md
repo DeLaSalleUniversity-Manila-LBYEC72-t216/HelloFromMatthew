@@ -24,4 +24,4 @@ int main()
 ```
 
 
-![](capture.jpg)
+![](Capture.PNG)
